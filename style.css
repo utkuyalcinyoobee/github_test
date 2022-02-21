@@ -8,3 +8,10 @@
     color: cornsilk;
     text-align: center;
 }
+
+#tom_div{
+    margin: 20px;
+    background-color: rgb(255, 80, 80);
+    color: black;
+    text-align: center;
+}
