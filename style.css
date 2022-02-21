@@ -1,17 +1,66 @@
-.hidden{
-    display: none;
+#utku_div {
+  margin: 20px;
+  background-color: coral;
+  color: cornsilk;
+  text-align: center;
 }
 
-#utku_div{
+
+#yvonne_div {
+  background-color: rgb(255, 174, 201);
+  color: white;
+  text-align: justify;
+  font-size: 30px;
+}
+
+#tom_div{
     margin: 20px;
-    background-color: coral;
-    color: cornsilk;
+    background-color: rgb(255, 80, 80);
+    color: black;
     text-align: center;
 }
+
+
+#nat_div {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    color: cadetblue;
+    text-align: center;
+}
+
+.KJ_background{
+  background-color: aqua;}
 
 #isaac_div{
     margin: 20px;
     background-color: coral;
     color: cornsilk;
     text-align: center;
+}
+
+#sunny_div{
+    margin: 20px;
+    background-color: pink;
+    color: violet;
+    text-align: center;
+}
+
+.nat_toggle_div
+{
+    background-color: darkcyan;
+    color: darkred;
+}
+
+.whos_is_this {
+    background-color: lavender;
+    color: olivedrab;
+    text-align: center;
+}
+
+#ruby_div{
+  background-color: black;
+  font: 20px;
+  color: white;
+  text-align: center;
 }
