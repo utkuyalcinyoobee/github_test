@@ -10,6 +10,16 @@
 }
 
 
+#nat_div {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    color: cadetblue;
+    text-align: center;
+}
+
+
+
 .KJ_background{
   background-color: aqua;}
 
@@ -19,3 +29,4 @@
     color: cornsilk;
     text-align: center;
 }
+
