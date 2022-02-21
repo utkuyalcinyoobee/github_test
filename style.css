@@ -1,5 +1,8 @@
-.hidden{
-    display: none;
+#utku_div {
+  margin: 20px;
+  background-color: coral;
+  color: cornsilk;
+  text-align: center;
 }
 
 #utku_div{
@@ -9,6 +12,12 @@
     text-align: center;
 }
 
+#yvonne_div {
+  background-color: rgb(255, 174, 201);
+  color: white;
+  text-align: justify;
+  font-size: 30px;
+}
 
 #tom_div{
     margin: 20px;
@@ -25,7 +34,6 @@
     color: cadetblue;
     text-align: center;
 }
-
 
 
 .KJ_background{
