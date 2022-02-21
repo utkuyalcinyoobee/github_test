@@ -10,6 +10,14 @@
 }
 
 
+#tom_div{
+    margin: 20px;
+    background-color: rgb(255, 80, 80);
+    color: black;
+    text-align: center;
+}
+
+
 #nat_div {
     margin: 20px;
     font-family: 'Times New Roman', Times, serif;
@@ -29,4 +37,5 @@
     color: cornsilk;
     text-align: center;
 }
+
 
