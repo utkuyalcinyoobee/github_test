@@ -29,12 +29,22 @@
     text-align: center;
 }
 
-
 .KJ_background{
   background-color: aqua;}
 
 #isaac_div{
     margin: 20px;
+    background-color: coral;
+    color: cornsilk;
+    text-align: center;
+}
+
+.nat_toggle_div
+{
+    background-color: darkcyan;
+    color: darkred;
+}
+
     background-color: lavender;
     color: olivedrab;
     text-align: center;
