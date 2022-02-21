@@ -9,6 +9,13 @@
     text-align: center;
 }
 
+
 .KJ_background{
-    background-color: aqua;
+  background-color: aqua;}
+
+#isaac_div{
+    margin: 20px;
+    background-color: coral;
+    color: cornsilk;
+    text-align: center;
 }
