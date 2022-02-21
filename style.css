@@ -1,6 +1,10 @@
-h1{
-    background-color: aquamarine;
-    color: black;
-    font-size: 10px;
+.hidden{
+    display: none;
 }
-/* this is main branch*/
+
+#utku_div{
+    margin: 20px;
+    background-color: coral;
+    color: cornsilk;
+    text-align: center;
+}
