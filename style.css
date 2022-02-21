@@ -9,9 +9,33 @@
     text-align: center;
 }
 
+
 #tom_div{
     margin: 20px;
     background-color: rgb(255, 80, 80);
     color: black;
     text-align: center;
 }
+
+
+#nat_div {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    color: cadetblue;
+    text-align: center;
+}
+
+
+
+.KJ_background{
+  background-color: aqua;}
+
+#isaac_div{
+    margin: 20px;
+    background-color: coral;
+    color: cornsilk;
+    text-align: center;
+}
+
+
